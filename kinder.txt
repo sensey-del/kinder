@@ -3,3 +3,4 @@ youtube.com
 www.youtube.com
 m.youtube.com
 youtubei.googleapis.com
+youtubei.googleapis.com
